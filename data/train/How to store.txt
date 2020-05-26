@@ -1,0 +1,2 @@
+Create a folder named as person_name
+store all his images here
