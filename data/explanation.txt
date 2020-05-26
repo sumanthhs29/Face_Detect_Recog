@@ -1,0 +1,8 @@
+First run python capture_images.py
+Now transfer the photos in images to train in data and create a folder(person name)
+copy some of the images val in data and create a folder(same person name).
+
+Try above steps for required number of persons(min 2)
+
+Now run python training_model.py
+Now run python guessing.py
