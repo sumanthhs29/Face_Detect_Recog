@@ -1,0 +1,8 @@
+Run python capture_images.py
+Transfer all images to train in data.
+Transfer some images to val in data.
+Exec above steps as many persons need to be recognized(min 2).
+
+Run python training_model.py
+
+Run python guessing.py
